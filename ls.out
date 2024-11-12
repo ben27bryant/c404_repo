@@ -1,0 +1,8 @@
+total 20
+-rw-r--r--. 1 ec2-user ec2-user   3 Oct 30 14:44 1
+-rw-r--r--. 1 ec2-user ec2-user  12 Oct 29 18:17 README.md
+-rw-r--r--. 1 ec2-user ec2-user   0 Oct 30 16:52 ls.out
+-rw-r--r--. 1 ec2-user ec2-user  74 Oct 30 16:42 myfile2.txt
+-rw-r--r--. 1 ec2-user ec2-user 783 Oct 30 16:19 newfile
+-rw-r--r--. 1 ec2-user ec2-user 108 Oct 30 15:01 python.py
+drwxr-xr-x. 2 ec2-user ec2-user  71 Oct 30 14:20 yuhhh

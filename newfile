@@ -1,0 +1,33 @@
+i for insert
+
+then use shift+: to Enter A command, wq is the command to write and quit
+
+in command mode, shift+a will take you to end of line in insert mode
+
+0 will take you to start of line (end for end of line)
+
+gg will take you to top of file
+
+shift+g bottom of file
+
+shift+: line-number then Enter
+
+line numbers shift + : set nu (set nonu)
+
+to delete A single character in command mode, use x
+
+insert mode is raw typing
+
+yy is to copy A line ( yank A line ) or y2 will yank 2 lines (use any number)
+
+dd will delete A line ( or d2 like y2) and yank it
+
+p will paste A line
+
+to replace A single character use r, then the caracter
+
+u will undu and ctrl+r will redu
+
+: + % + s / (what you want to change) / What youre subsituting / 1 for first occurence in each line, g for global
+
+
